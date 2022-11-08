@@ -1,0 +1,30 @@
+.input{
+
+    margin: 2rem auto;
+    padding: 1rem;
+    width: 90%;
+    max-width: 40rem;
+
+}
+
+.input label{
+
+    display: block;
+
+}
+
+.input input{
+
+    display: block;
+    width: 100%;
+
+}
+
+.warning{
+
+    margin: 15px;
+    color: rgb(0, 0, 0);
+    font-weight: 800;
+    font-size: 18px;
+
+}
